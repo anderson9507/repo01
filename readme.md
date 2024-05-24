@@ -1,0 +1,3 @@
+1. primero cree la carpeta repo01 en el escritorio a traves de la terminal con el comando mkdir
+2. ingrese en ella por el terminal y .... 
+Continuara la historia, necesito subirlo 
